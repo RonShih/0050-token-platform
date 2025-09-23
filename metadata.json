@@ -1,0 +1,5 @@
+{
+  "name": "0050t DeFi Portal",
+  "description": "A decentralized application for subscribing to and redeeming 0050t tokens using USDt on the Sepolia testnet. Connect your wallet to interact with the smart contracts.",
+  "requestFramePermissions": []
+}
